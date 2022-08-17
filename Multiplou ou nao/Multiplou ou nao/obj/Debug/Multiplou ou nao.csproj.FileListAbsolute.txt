@@ -1,0 +1,8 @@
+C:\Users\carlos junior\source\repos\Multiplou ou nao\Multiplou ou nao\bin\Debug\Multiplou ou nao.exe.config
+C:\Users\carlos junior\source\repos\Multiplou ou nao\Multiplou ou nao\bin\Debug\Multiplou ou nao.exe
+C:\Users\carlos junior\source\repos\Multiplou ou nao\Multiplou ou nao\bin\Debug\Multiplou ou nao.pdb
+C:\Users\carlos junior\source\repos\Multiplou ou nao\Multiplou ou nao\obj\Debug\Multiplou ou nao.csproj.AssemblyReference.cache
+C:\Users\carlos junior\source\repos\Multiplou ou nao\Multiplou ou nao\obj\Debug\Multiplou ou nao.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlos junior\source\repos\Multiplou ou nao\Multiplou ou nao\obj\Debug\Multiplou ou nao.csproj.CoreCompileInputs.cache
+C:\Users\carlos junior\source\repos\Multiplou ou nao\Multiplou ou nao\obj\Debug\Multiplou ou nao.exe
+C:\Users\carlos junior\source\repos\Multiplou ou nao\Multiplou ou nao\obj\Debug\Multiplou ou nao.pdb

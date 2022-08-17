@@ -1,0 +1,8 @@
+C:\Users\carlos junior\source\repos\Lambda_Linq_Delegates\Lambda_Linq_Delegates\bin\Debug\Lambda_Linq_Delegates.exe.config
+C:\Users\carlos junior\source\repos\Lambda_Linq_Delegates\Lambda_Linq_Delegates\bin\Debug\Lambda_Linq_Delegates.exe
+C:\Users\carlos junior\source\repos\Lambda_Linq_Delegates\Lambda_Linq_Delegates\bin\Debug\Lambda_Linq_Delegates.pdb
+C:\Users\carlos junior\source\repos\Lambda_Linq_Delegates\Lambda_Linq_Delegates\obj\Debug\Lambda_Linq_Delegates.csproj.AssemblyReference.cache
+C:\Users\carlos junior\source\repos\Lambda_Linq_Delegates\Lambda_Linq_Delegates\obj\Debug\Lambda_Linq_Delegates.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlos junior\source\repos\Lambda_Linq_Delegates\Lambda_Linq_Delegates\obj\Debug\Lambda_Linq_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\carlos junior\source\repos\Lambda_Linq_Delegates\Lambda_Linq_Delegates\obj\Debug\Lambda_Linq_Delegates.exe
+C:\Users\carlos junior\source\repos\Lambda_Linq_Delegates\Lambda_Linq_Delegates\obj\Debug\Lambda_Linq_Delegates.pdb

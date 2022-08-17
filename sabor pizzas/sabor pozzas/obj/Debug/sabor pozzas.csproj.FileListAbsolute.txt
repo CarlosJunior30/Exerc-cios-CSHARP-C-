@@ -1,0 +1,8 @@
+C:\Users\carlos junior\source\repos\sabor pozzas\sabor pozzas\obj\Debug\sabor pozzas.csproj.AssemblyReference.cache
+C:\Users\carlos junior\source\repos\sabor pozzas\sabor pozzas\obj\Debug\sabor pozzas.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlos junior\source\repos\sabor pozzas\sabor pozzas\obj\Debug\sabor pozzas.csproj.CoreCompileInputs.cache
+C:\Users\carlos junior\source\repos\sabor pozzas\sabor pozzas\bin\Debug\sabor pozzas.exe.config
+C:\Users\carlos junior\source\repos\sabor pozzas\sabor pozzas\bin\Debug\sabor pozzas.exe
+C:\Users\carlos junior\source\repos\sabor pozzas\sabor pozzas\bin\Debug\sabor pozzas.pdb
+C:\Users\carlos junior\source\repos\sabor pozzas\sabor pozzas\obj\Debug\sabor pozzas.exe
+C:\Users\carlos junior\source\repos\sabor pozzas\sabor pozzas\obj\Debug\sabor pozzas.pdb

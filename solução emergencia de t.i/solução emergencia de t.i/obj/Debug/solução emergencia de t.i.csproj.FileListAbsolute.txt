@@ -1,0 +1,8 @@
+C:\Users\carlos junior\source\repos\solução emergencia de t.i\solução emergencia de t.i\bin\Debug\solução emergencia de t.i.exe.config
+C:\Users\carlos junior\source\repos\solução emergencia de t.i\solução emergencia de t.i\bin\Debug\solução emergencia de t.i.exe
+C:\Users\carlos junior\source\repos\solução emergencia de t.i\solução emergencia de t.i\bin\Debug\solução emergencia de t.i.pdb
+C:\Users\carlos junior\source\repos\solução emergencia de t.i\solução emergencia de t.i\obj\Debug\solução emergencia de t.i.csproj.AssemblyReference.cache
+C:\Users\carlos junior\source\repos\solução emergencia de t.i\solução emergencia de t.i\obj\Debug\solução emergencia de t.i.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlos junior\source\repos\solução emergencia de t.i\solução emergencia de t.i\obj\Debug\solução emergencia de t.i.csproj.CoreCompileInputs.cache
+C:\Users\carlos junior\source\repos\solução emergencia de t.i\solução emergencia de t.i\obj\Debug\solução emergencia de t.i.exe
+C:\Users\carlos junior\source\repos\solução emergencia de t.i\solução emergencia de t.i\obj\Debug\solução emergencia de t.i.pdb

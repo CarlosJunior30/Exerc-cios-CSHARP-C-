@@ -1,0 +1,8 @@
+C:\Users\carlos junior\source\repos\Exercicio generics\Exercicio generics\bin\Debug\Exercicio generics.exe.config
+C:\Users\carlos junior\source\repos\Exercicio generics\Exercicio generics\bin\Debug\Exercicio generics.exe
+C:\Users\carlos junior\source\repos\Exercicio generics\Exercicio generics\bin\Debug\Exercicio generics.pdb
+C:\Users\carlos junior\source\repos\Exercicio generics\Exercicio generics\obj\Debug\Exercicio generics.csproj.AssemblyReference.cache
+C:\Users\carlos junior\source\repos\Exercicio generics\Exercicio generics\obj\Debug\Exercicio generics.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlos junior\source\repos\Exercicio generics\Exercicio generics\obj\Debug\Exercicio generics.csproj.CoreCompileInputs.cache
+C:\Users\carlos junior\source\repos\Exercicio generics\Exercicio generics\obj\Debug\Exercicio generics.exe
+C:\Users\carlos junior\source\repos\Exercicio generics\Exercicio generics\obj\Debug\Exercicio generics.pdb

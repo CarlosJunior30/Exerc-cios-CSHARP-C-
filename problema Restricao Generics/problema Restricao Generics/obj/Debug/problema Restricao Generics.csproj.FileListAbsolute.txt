@@ -1,0 +1,8 @@
+C:\Users\carlos junior\source\repos\problema Restricao Generics\problema Restricao Generics\bin\Debug\problema Restricao Generics.exe.config
+C:\Users\carlos junior\source\repos\problema Restricao Generics\problema Restricao Generics\bin\Debug\problema Restricao Generics.exe
+C:\Users\carlos junior\source\repos\problema Restricao Generics\problema Restricao Generics\bin\Debug\problema Restricao Generics.pdb
+C:\Users\carlos junior\source\repos\problema Restricao Generics\problema Restricao Generics\obj\Debug\problema Restricao Generics.csproj.AssemblyReference.cache
+C:\Users\carlos junior\source\repos\problema Restricao Generics\problema Restricao Generics\obj\Debug\problema Restricao Generics.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlos junior\source\repos\problema Restricao Generics\problema Restricao Generics\obj\Debug\problema Restricao Generics.csproj.CoreCompileInputs.cache
+C:\Users\carlos junior\source\repos\problema Restricao Generics\problema Restricao Generics\obj\Debug\problema Restricao Generics.exe
+C:\Users\carlos junior\source\repos\problema Restricao Generics\problema Restricao Generics\obj\Debug\problema Restricao Generics.pdb

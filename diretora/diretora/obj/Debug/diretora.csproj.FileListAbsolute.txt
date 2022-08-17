@@ -1,0 +1,8 @@
+C:\Users\carlos junior\source\repos\diretora\diretora\bin\Debug\diretora.exe.config
+C:\Users\carlos junior\source\repos\diretora\diretora\bin\Debug\diretora.exe
+C:\Users\carlos junior\source\repos\diretora\diretora\bin\Debug\diretora.pdb
+C:\Users\carlos junior\source\repos\diretora\diretora\obj\Debug\diretora.csproj.AssemblyReference.cache
+C:\Users\carlos junior\source\repos\diretora\diretora\obj\Debug\diretora.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlos junior\source\repos\diretora\diretora\obj\Debug\diretora.csproj.CoreCompileInputs.cache
+C:\Users\carlos junior\source\repos\diretora\diretora\obj\Debug\diretora.exe
+C:\Users\carlos junior\source\repos\diretora\diretora\obj\Debug\diretora.pdb

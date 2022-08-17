@@ -1,0 +1,8 @@
+C:\Users\carlos junior\source\repos\Quantidade de clientes que abasteceu\Quantidade de clientes que abasteceu\bin\Debug\Quantidade de clientes que abasteceu.exe.config
+C:\Users\carlos junior\source\repos\Quantidade de clientes que abasteceu\Quantidade de clientes que abasteceu\bin\Debug\Quantidade de clientes que abasteceu.exe
+C:\Users\carlos junior\source\repos\Quantidade de clientes que abasteceu\Quantidade de clientes que abasteceu\bin\Debug\Quantidade de clientes que abasteceu.pdb
+C:\Users\carlos junior\source\repos\Quantidade de clientes que abasteceu\Quantidade de clientes que abasteceu\obj\Debug\Quantidade de clientes que abasteceu.csproj.AssemblyReference.cache
+C:\Users\carlos junior\source\repos\Quantidade de clientes que abasteceu\Quantidade de clientes que abasteceu\obj\Debug\Quantidade de clientes que abasteceu.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlos junior\source\repos\Quantidade de clientes que abasteceu\Quantidade de clientes que abasteceu\obj\Debug\Quantidade de clientes que abasteceu.csproj.CoreCompileInputs.cache
+C:\Users\carlos junior\source\repos\Quantidade de clientes que abasteceu\Quantidade de clientes que abasteceu\obj\Debug\Quantidade de clientes que abasteceu.exe
+C:\Users\carlos junior\source\repos\Quantidade de clientes que abasteceu\Quantidade de clientes que abasteceu\obj\Debug\Quantidade de clientes que abasteceu.pdb

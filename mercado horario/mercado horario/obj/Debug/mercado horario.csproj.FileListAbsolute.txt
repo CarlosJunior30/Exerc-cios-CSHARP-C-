@@ -1,0 +1,8 @@
+C:\Users\carlos junior\source\repos\mercado horario\mercado horario\bin\Debug\mercado horario.exe.config
+C:\Users\carlos junior\source\repos\mercado horario\mercado horario\bin\Debug\mercado horario.exe
+C:\Users\carlos junior\source\repos\mercado horario\mercado horario\bin\Debug\mercado horario.pdb
+C:\Users\carlos junior\source\repos\mercado horario\mercado horario\obj\Debug\mercado horario.csproj.AssemblyReference.cache
+C:\Users\carlos junior\source\repos\mercado horario\mercado horario\obj\Debug\mercado horario.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlos junior\source\repos\mercado horario\mercado horario\obj\Debug\mercado horario.csproj.CoreCompileInputs.cache
+C:\Users\carlos junior\source\repos\mercado horario\mercado horario\obj\Debug\mercado horario.exe
+C:\Users\carlos junior\source\repos\mercado horario\mercado horario\obj\Debug\mercado horario.pdb

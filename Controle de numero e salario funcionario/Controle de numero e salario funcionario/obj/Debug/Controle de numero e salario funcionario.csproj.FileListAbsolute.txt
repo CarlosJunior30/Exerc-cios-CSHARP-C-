@@ -1,0 +1,8 @@
+C:\Users\carlos junior\source\repos\Controle de numero e salario funcionario\Controle de numero e salario funcionario\bin\Debug\Controle de numero e salario funcionario.exe.config
+C:\Users\carlos junior\source\repos\Controle de numero e salario funcionario\Controle de numero e salario funcionario\bin\Debug\Controle de numero e salario funcionario.exe
+C:\Users\carlos junior\source\repos\Controle de numero e salario funcionario\Controle de numero e salario funcionario\bin\Debug\Controle de numero e salario funcionario.pdb
+C:\Users\carlos junior\source\repos\Controle de numero e salario funcionario\Controle de numero e salario funcionario\obj\Debug\Controle de numero e salario funcionario.csproj.AssemblyReference.cache
+C:\Users\carlos junior\source\repos\Controle de numero e salario funcionario\Controle de numero e salario funcionario\obj\Debug\Controle de numero e salario funcionario.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlos junior\source\repos\Controle de numero e salario funcionario\Controle de numero e salario funcionario\obj\Debug\Controle de numero e salario funcionario.csproj.CoreCompileInputs.cache
+C:\Users\carlos junior\source\repos\Controle de numero e salario funcionario\Controle de numero e salario funcionario\obj\Debug\Controle de numero e salario funcionario.exe
+C:\Users\carlos junior\source\repos\Controle de numero e salario funcionario\Controle de numero e salario funcionario\obj\Debug\Controle de numero e salario funcionario.pdb

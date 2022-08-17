@@ -1,0 +1,8 @@
+C:\Users\carlos junior\source\repos\duraçao de partida\duraçao de partida\bin\Debug\duraçao de partida.exe.config
+C:\Users\carlos junior\source\repos\duraçao de partida\duraçao de partida\bin\Debug\duraçao de partida.exe
+C:\Users\carlos junior\source\repos\duraçao de partida\duraçao de partida\bin\Debug\duraçao de partida.pdb
+C:\Users\carlos junior\source\repos\duraçao de partida\duraçao de partida\obj\Debug\duraçao de partida.csproj.AssemblyReference.cache
+C:\Users\carlos junior\source\repos\duraçao de partida\duraçao de partida\obj\Debug\duraçao de partida.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlos junior\source\repos\duraçao de partida\duraçao de partida\obj\Debug\duraçao de partida.csproj.CoreCompileInputs.cache
+C:\Users\carlos junior\source\repos\duraçao de partida\duraçao de partida\obj\Debug\duraçao de partida.exe
+C:\Users\carlos junior\source\repos\duraçao de partida\duraçao de partida\obj\Debug\duraçao de partida.pdb

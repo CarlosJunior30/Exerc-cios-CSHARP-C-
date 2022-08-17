@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cordernadas cartesianas", "cordernadas cartesianas\cordernadas cartesianas.csproj", "{01056F9B-0941-42A6-8179-460EF63397AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01056F9B-0941-42A6-8179-460EF63397AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01056F9B-0941-42A6-8179-460EF63397AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01056F9B-0941-42A6-8179-460EF63397AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01056F9B-0941-42A6-8179-460EF63397AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14FA3A68-43CE-405F-A86C-044134C5AB7F}
+	EndGlobalSection
+EndGlobal

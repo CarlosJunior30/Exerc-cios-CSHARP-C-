@@ -1,0 +1,8 @@
+C:\Users\carlos junior\source\repos\diferenca do valor do produto\diferenca do valor do produto\bin\Debug\diferenca do valor do produto.exe.config
+C:\Users\carlos junior\source\repos\diferenca do valor do produto\diferenca do valor do produto\bin\Debug\diferenca do valor do produto.exe
+C:\Users\carlos junior\source\repos\diferenca do valor do produto\diferenca do valor do produto\bin\Debug\diferenca do valor do produto.pdb
+C:\Users\carlos junior\source\repos\diferenca do valor do produto\diferenca do valor do produto\obj\Debug\diferenca do valor do produto.csproj.AssemblyReference.cache
+C:\Users\carlos junior\source\repos\diferenca do valor do produto\diferenca do valor do produto\obj\Debug\diferenca do valor do produto.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlos junior\source\repos\diferenca do valor do produto\diferenca do valor do produto\obj\Debug\diferenca do valor do produto.csproj.CoreCompileInputs.cache
+C:\Users\carlos junior\source\repos\diferenca do valor do produto\diferenca do valor do produto\obj\Debug\diferenca do valor do produto.exe
+C:\Users\carlos junior\source\repos\diferenca do valor do produto\diferenca do valor do produto\obj\Debug\diferenca do valor do produto.pdb

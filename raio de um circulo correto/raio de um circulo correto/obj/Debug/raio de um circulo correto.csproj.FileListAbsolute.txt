@@ -1,0 +1,8 @@
+C:\Users\carlos junior\source\repos\raio de um circulo correto\raio de um circulo correto\bin\Debug\raio de um circulo correto.exe.config
+C:\Users\carlos junior\source\repos\raio de um circulo correto\raio de um circulo correto\bin\Debug\raio de um circulo correto.exe
+C:\Users\carlos junior\source\repos\raio de um circulo correto\raio de um circulo correto\bin\Debug\raio de um circulo correto.pdb
+C:\Users\carlos junior\source\repos\raio de um circulo correto\raio de um circulo correto\obj\Debug\raio de um circulo correto.csproj.AssemblyReference.cache
+C:\Users\carlos junior\source\repos\raio de um circulo correto\raio de um circulo correto\obj\Debug\raio de um circulo correto.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlos junior\source\repos\raio de um circulo correto\raio de um circulo correto\obj\Debug\raio de um circulo correto.csproj.CoreCompileInputs.cache
+C:\Users\carlos junior\source\repos\raio de um circulo correto\raio de um circulo correto\obj\Debug\raio de um circulo correto.exe
+C:\Users\carlos junior\source\repos\raio de um circulo correto\raio de um circulo correto\obj\Debug\raio de um circulo correto.pdb

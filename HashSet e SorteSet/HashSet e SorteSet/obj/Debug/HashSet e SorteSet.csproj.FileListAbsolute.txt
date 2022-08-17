@@ -1,0 +1,8 @@
+C:\Users\carlos junior\source\repos\HashSet e SorteSet\HashSet e SorteSet\bin\Debug\HashSet e SorteSet.exe.config
+C:\Users\carlos junior\source\repos\HashSet e SorteSet\HashSet e SorteSet\bin\Debug\HashSet e SorteSet.exe
+C:\Users\carlos junior\source\repos\HashSet e SorteSet\HashSet e SorteSet\bin\Debug\HashSet e SorteSet.pdb
+C:\Users\carlos junior\source\repos\HashSet e SorteSet\HashSet e SorteSet\obj\Debug\HashSet e SorteSet.csproj.AssemblyReference.cache
+C:\Users\carlos junior\source\repos\HashSet e SorteSet\HashSet e SorteSet\obj\Debug\HashSet e SorteSet.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlos junior\source\repos\HashSet e SorteSet\HashSet e SorteSet\obj\Debug\HashSet e SorteSet.csproj.CoreCompileInputs.cache
+C:\Users\carlos junior\source\repos\HashSet e SorteSet\HashSet e SorteSet\obj\Debug\HashSet e SorteSet.exe
+C:\Users\carlos junior\source\repos\HashSet e SorteSet\HashSet e SorteSet\obj\Debug\HashSet e SorteSet.pdb

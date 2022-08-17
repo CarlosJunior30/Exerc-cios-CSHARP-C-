@@ -1,0 +1,8 @@
+C:\Users\carlos junior\source\repos\calcule e mostre o valor pago na peça\calcule e mostre o valor pago na peça\bin\Debug\calcule e mostre o valor pago na peça.exe.config
+C:\Users\carlos junior\source\repos\calcule e mostre o valor pago na peça\calcule e mostre o valor pago na peça\bin\Debug\calcule e mostre o valor pago na peça.exe
+C:\Users\carlos junior\source\repos\calcule e mostre o valor pago na peça\calcule e mostre o valor pago na peça\bin\Debug\calcule e mostre o valor pago na peça.pdb
+C:\Users\carlos junior\source\repos\calcule e mostre o valor pago na peça\calcule e mostre o valor pago na peça\obj\Debug\calcule e mostre o valor pago na peça.csproj.AssemblyReference.cache
+C:\Users\carlos junior\source\repos\calcule e mostre o valor pago na peça\calcule e mostre o valor pago na peça\obj\Debug\calcule e mostre o valor pago na peça.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlos junior\source\repos\calcule e mostre o valor pago na peça\calcule e mostre o valor pago na peça\obj\Debug\calcule e mostre o valor pago na peça.csproj.CoreCompileInputs.cache
+C:\Users\carlos junior\source\repos\calcule e mostre o valor pago na peça\calcule e mostre o valor pago na peça\obj\Debug\calcule e mostre o valor pago na peça.exe
+C:\Users\carlos junior\source\repos\calcule e mostre o valor pago na peça\calcule e mostre o valor pago na peça\obj\Debug\calcule e mostre o valor pago na peça.pdb
